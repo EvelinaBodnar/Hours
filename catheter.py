@@ -1,0 +1,6 @@
+print('Enter first catheter')
+first_cath = float(input())
+print('Enter second catheter')
+second_cath = float(input())
+S = ((first_cath * second_cath)/2)
+print(S)
